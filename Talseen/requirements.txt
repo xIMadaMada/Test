@@ -8,7 +8,7 @@ moviepy
 Pillow
 spleeter
 gradio
-فransformers
+transformers
 torchaudio
 SentencePiece
 soundfile
